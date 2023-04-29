@@ -95,7 +95,7 @@ function RightPaneHomeScreen() {
                         <h4>language: {playground.language}</h4>
                       </div>
                     </div>
-                    <div className="flex gap-4 items-center cursor-pointer" >
+                    <div className="flex gap-4 items-center">
                       <BiEditAlt
                         size={"1.5em"}
                         onClick={() =>
